@@ -1,0 +1,55 @@
+body {
+	width: 45em;
+	margin: auto;
+	padding: 0px;
+	font-family: sans-serif;
+	background-color: #181818;
+	color: WhiteSmoke;
+}
+
+hr {
+	border-bottom: 1px solid white;
+}
+
+.container {
+	
+}
+
+.header {
+	width: 45em;
+	background-color: #282828;
+	border-bottom: 1px solid white;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+a {
+	color: white;
+	font-size: 14px;
+}
+
+.footer {
+	margin-top: 17px;
+	width: 45em;
+	background-color: #282828;
+	padding: 5px;
+	border-top: 1px solid white;
+}
+
+.hero {
+	background-color: #484848;
+	padding: 5px;
+}
+.hero button {
+	background-color: #505050;
+	border: 1px solid white;
+	color: white;
+	width: 50px;
+	padding: 2px;
+}
+
+.message {
+	width: 100%;
+	display: inline-block;
+	border-bottom: 1px solid white;
+}
